@@ -26,9 +26,9 @@ function userPick(pick) {
 			userResult.innerHTML = userScore;
 			message.innerHTML = `You picked ${pick} and beat computers ${computerPick} pick!!!`;
 			break;
-		case "ScissorsPaper":
+		case "PaperScissors":
 		case "RockPaper":
-		case "PaperRock":
+		case "ScissorsRock":
 			computerScore += 1;
 			computerResult.innerHTML = computerScore;
 			message.innerHTML = `You picked ${pick} and lost to computers ${computerPick} pick!!!`;
