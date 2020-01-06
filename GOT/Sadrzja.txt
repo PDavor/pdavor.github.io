@@ -1,0 +1,28 @@
+Naslovna
+Prièa	https://gameofthrones.fandom.com/wiki/Season_1
+	Sezona 1
+	Sezona 2
+	Sezona 3
+	Sezona 4
+	Sezona 5
+	Sezona 6
+	Sezona 7
+	Sezona 8
+Velike kuæe https://gameofthrones.fandom.com/wiki/Great_House
+	-posebna stranica sa poveznicama
+Arryn
+Baratheon
+Bronn
+Greyjoy
+Lannister
+Stark
+Martell
+Tully
+
+Targaryen
+Frey
+Tyrell
+Tully
+
+Likovi
+	- posebna stranica sa poveznicama, po kategorijama, po kuæama, po abecedi?

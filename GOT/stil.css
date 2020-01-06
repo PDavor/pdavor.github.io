@@ -1,0 +1,122 @@
+.naslovna-slika {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('slike/logo_naslovna.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.nav-item {
+	padding-right: 20px;
+}
+
+.navbar-brand {
+	margin-left: 50px;
+}
+
+.navigacija {
+	opacity: 1;
+	background-color:#011638;
+}
+
+.nav-link {
+	color: #D1D1D1;
+}
+
+.nav-link:hover {
+	color: white;
+}
+
+.fa {
+	color: #D1D1D1;
+	font-size: 70px;
+}
+
+h5 {
+	color: #c0c0c0;
+}
+
+h1, h2, h3, h4, h6 {
+	color: #011638;
+}
+
+h1, h2, h3 {
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 2px solid #011638;
+}
+
+h3 {
+	margin-top:50px !important;
+	margin-bottom:10px !important;
+}
+
+body {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+.sivi-bg {
+	background-color: #d1d1d1;
+}
+
+.sivi-bg1 {
+	background-color:#dcdcdc;
+}
+
+.card {
+	max-width:40rem;
+	margin-top:10px;
+}
+
+.card-body {
+	background-color:#011638;
+}
+
+.dno {
+	background-color:#011638;
+	color: #c0c0c0;
+}
+
+.navbar-toggler {
+	color: white;
+	z-index: 999999;
+}
+
+a.anchor{display: block; position: relative; top: -100px; visibility: hidden;}
+
+
+@media only screen and (min-width: 577px) {
+  .navigacija {
+  	height: 70px;
+  }
+
+}
+
+@media only screen and (max-width: 577px) {
+	a.anchor{display: block; position: relative; top: -150px; visibility: hidden;}
+}
+
+.slika {
+	padding: 15px;
+}
+
+.figure-caption {
+	color: #011638 !important;
+}
+
+.video {
+-webkit-box-shadow: 7px 7px 16px -2px rgba(1,22,56,1);
+-moz-box-shadow: 7px 7px 16px -2px rgba(1,22,56,1);
+box-shadow: 7px 7px 16px -2px rgba(1,22,56,1);
+}
+
+.img-thumbnail {
+	cursor: pointer;
+	background-color:#011638 !important;
+	margin-top: 10px;
+}
+
+.thumb {
+	min-height: 160px;
+}
