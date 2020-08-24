@@ -1,0 +1,50 @@
+.navbar {
+	background-color: #094ffd;
+}
+
+a {
+	color: white;
+}
+
+h1 {
+	padding-bottom: 2rem;
+	padding-top: 2rem;
+}
+
+a:hover {
+	color: #f2f2f2;
+}
+
+.proizvodi {
+	background: #f2f2f2;
+	padding-bottom: 2rem;
+	/*padding: 2rem 5rem 2rem 5rem;*/
+}
+
+@media screen and (min-width: 1200px){
+	.card-columns {
+		column-count: 4;
+	}	
+}
+
+footer {
+	background: #094ffd;
+}
+
+hr {
+	border-color: white;
+}
+
+.footer-copyright {
+	background: blue;
+}
+
+.card-text {
+	height: 0px;
+	overflow:hidden;
+}
+
+.naslovna {
+	background-image:url(../slike/naslovna.jpg);
+	color: white;
+}
